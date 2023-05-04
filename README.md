@@ -2,6 +2,7 @@
 
 This is a small PoC of a QR Code Generator which uses an external API to generate QR Code using the text input.
 
+Feel free to try it out at [QR Code Generator](https://manojlovic1998.github.io/qr-code-generator/).
 ![Website preview](/public/images/website-preview.PNG)
 
 ## Feature Support
